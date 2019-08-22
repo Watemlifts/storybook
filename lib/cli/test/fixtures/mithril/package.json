@@ -7,7 +7,7 @@
     "build": "webpack -p dist"
   },
   "dependencies": {
-    "mithril": "^1.1.6"
+    "mithril": "^2.0.2"
   },
   "devDependencies": {}
 }
