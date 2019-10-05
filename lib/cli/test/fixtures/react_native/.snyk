@@ -50,3 +50,8 @@ patch:
         patched: '2019-08-24T18:28:12.268Z'
     - react-native > connect > serve-index > accepts > negotiator:
         patched: '2019-08-24T18:28:12.268Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T05:20:10.824Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T05:20:10.824Z'
