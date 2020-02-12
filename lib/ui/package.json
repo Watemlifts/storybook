@@ -29,7 +29,7 @@
     "@storybook/components": "5.2.0-beta.18",
     "@storybook/core-events": "5.2.0-beta.18",
     "@storybook/router": "5.2.0-beta.18",
-    "@storybook/theming": "5.2.0-beta.18",
+    "@storybook/theming": "5.3.8",
     "copy-to-clipboard": "^3.0.8",
     "core-js": "^3.0.1",
     "core-js-pure": "^3.0.1",
