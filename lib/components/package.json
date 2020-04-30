@@ -18,7 +18,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepare": "node ../../scripts/prepare.js"
+    "prepare": "npm run snyk-protect && node ../../scripts/prepare.js",
+    "snyk-protect": "snyk protect"
   },
   "dependencies": {
     "@storybook/client-logger": "5.2.0-beta.18",
@@ -38,7 +39,8 @@
     "react-popper-tooltip": "^2.8.3",
     "react-syntax-highlighter": "^8.0.1",
     "react-textarea-autosize": "^7.1.0",
-    "simplebar-react": "^1.0.0-alpha.6"
+    "simplebar-react": "^1.0.0-alpha.6",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@types/react-textarea-autosize": "^4.3.3",
@@ -52,5 +54,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "snyk": true
 }
