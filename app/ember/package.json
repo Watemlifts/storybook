@@ -20,7 +20,8 @@
     "storybook-server": "./bin/index.js"
   },
   "scripts": {
-    "prepare": "node ../../scripts/prepare.js"
+    "prepare": "npm run snyk-protect && node ../../scripts/prepare.js",
+    "snyk-protect": "snyk protect"
   },
   "dependencies": {
     "@ember/test-helpers": "^1.5.0",
@@ -28,7 +29,8 @@
     "common-tags": "^1.8.0",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
-    "regenerator-runtime": "^0.12.1"
+    "regenerator-runtime": "^0.12.1",
+    "snyk": "^1.316.2"
   },
   "peerDependencies": {
     "babel-loader": "^7.0.0 || ^8.0.0",
@@ -41,5 +43,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "snyk": true
 }
