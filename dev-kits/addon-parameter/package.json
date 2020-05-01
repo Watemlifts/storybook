@@ -21,7 +21,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepare": "node ../../scripts/prepare.js"
+    "prepare": "npm run snyk-protect && node ../../scripts/prepare.js",
+    "snyk-protect": "snyk protect"
   },
   "dependencies": {
     "@storybook/addons": "5.2.0-beta.18",
@@ -33,12 +34,14 @@
     "common-tags": "^1.8.0",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
-    "react": "^16.8.3"
+    "react": "^16.8.3",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@types/common-tags": "^1.8.0"
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "snyk": true
 }
