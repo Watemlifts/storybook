@@ -46,7 +46,7 @@
     "semver": "^6.0.0",
     "shelljs": "^0.8.3",
     "update-notifier": "^3.0.0",
-    "snyk": "^1.231.0"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@storybook/addon-actions": "5.2.0-beta.18",
