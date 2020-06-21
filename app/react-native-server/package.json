@@ -26,10 +26,10 @@
   "dependencies": {
     "@storybook/addons": "5.2.0-beta.18",
     "@storybook/api": "5.2.0-beta.18",
-    "@storybook/channel-websocket": "5.2.0-beta.18",
-    "@storybook/core": "5.2.0-beta.18",
+    "@storybook/channel-websocket": "5.3.19",
+    "@storybook/core": "5.3.19",
     "@storybook/core-events": "5.2.0-beta.18",
-    "@storybook/ui": "5.2.0-beta.18",
+    "@storybook/ui": "5.3.19",
     "commander": "^2.19.0",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
