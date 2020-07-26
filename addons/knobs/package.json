@@ -24,7 +24,7 @@
   "dependencies": {
     "@storybook/addons": "5.2.0-beta.18",
     "@storybook/api": "5.2.0-beta.18",
-    "@storybook/client-api": "5.2.0-beta.18",
+    "@storybook/client-api": "5.3.19",
     "@storybook/components": "5.2.0-beta.18",
     "@storybook/core-events": "5.2.0-beta.18",
     "@storybook/theming": "5.2.0-beta.18",
