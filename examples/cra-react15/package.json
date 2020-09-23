@@ -5,8 +5,8 @@
   "dependencies": {
     "babel-loader": "8.0.6",
     "global": "^4.3.2",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-scripts": "3.3.0"
   },
   "scripts": {
