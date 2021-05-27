@@ -15,7 +15,7 @@
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "3.3.0",
+    "react-scripts": "4.0.0",
     "snyk": "^1.231.0"
   },
   "devDependencies": {
