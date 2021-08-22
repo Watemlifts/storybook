@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@storybook/addons": "5.2.0-beta.18",
-    "@storybook/core-events": "5.2.0-beta.18",
+    "@storybook/core-events": "5.3.21",
     "core-js": "^3.0.1",
     "deep-equal": "^1.0.1",
     "prop-types": "^15.7.2",
