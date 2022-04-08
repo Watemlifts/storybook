@@ -35,7 +35,7 @@
     "@svgr/webpack": "^4.0.3",
     "babel-plugin-add-react-displayname": "^0.0.5",
     "babel-plugin-named-asset-import": "^0.3.1",
-    "babel-plugin-react-docgen": "^3.0.0",
+    "babel-plugin-react-docgen": "^4.0.0",
     "babel-preset-react-app": "^9.0.0",
     "common-tags": "^1.8.0",
     "core-js": "^3.0.1",
