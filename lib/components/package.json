@@ -43,7 +43,7 @@
   "devDependencies": {
     "@types/react-textarea-autosize": "^4.3.3",
     "enzyme": "^3.9.0",
-    "jest": "^24.7.1",
+    "jest": "^27.0.2",
     "jest-enzyme": "^7.0.2"
   },
   "peerDependencies": {
