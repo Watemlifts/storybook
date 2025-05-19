@@ -19,7 +19,7 @@
   "devDependencies": {
     "babel-jest": "24.7.1",
     "babel-preset-react-native": "3.0.1",
-    "jest": "24.7.1",
+    "jest": "27.0.2",
     "react-test-renderer": "16.0.0-alpha.12"
   },
   "snyk": true
