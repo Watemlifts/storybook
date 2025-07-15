@@ -25,7 +25,7 @@
     "@storybook/addon-links": "5.2.0-beta.18",
     "@storybook/addon-notes": "5.2.0-beta.18",
     "@storybook/addon-options": "5.2.0-beta.18",
-    "@storybook/addon-storyshots": "5.2.0-beta.18",
+    "@storybook/addon-storyshots": "7.6.17",
     "@storybook/addon-storysource": "5.2.0-beta.18",
     "@storybook/addon-viewport": "5.2.0-beta.18",
     "@storybook/addons": "5.2.0-beta.18",
@@ -40,6 +40,6 @@
     "svg-url-loader": "^2.3.2",
     "vue-loader": "^15.7.0",
     "webpack": "^4.33.0",
-    "webpack-dev-server": "^3.4.1"
+    "webpack-dev-server": "^4.7.3"
   }
 }
