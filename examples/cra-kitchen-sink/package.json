@@ -36,6 +36,6 @@
     "@storybook/client-logger": "5.2.0-beta.18",
     "@storybook/react": "5.2.0-beta.18",
     "@storybook/theming": "5.2.0-beta.18",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^4.0.0"
   }
 }
