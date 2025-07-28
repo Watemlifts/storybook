@@ -191,7 +191,7 @@
     "jest-environment-jsdom": "^24.8.0",
     "jest-environment-jsdom-thirteen": "^1.0.1",
     "jest-enzyme": "^7.0.2",
-    "jest-image-snapshot": "^2.8.2",
+    "jest-image-snapshot": "^6.5.0",
     "jest-jasmine2": "^24.8.0",
     "jest-matcher-utils": "^24.8.0",
     "jest-preset-angular": "^6.0.1",
