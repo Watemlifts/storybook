@@ -60,7 +60,7 @@
     "fs-extra": "^8.0.1",
     "global": "^4.3.2",
     "html-webpack-plugin": "^5.5.0",
-    "inquirer": "^7.0.0",
+    "inquirer": "^8.2.7",
     "interpret": "^1.2.0",
     "ip": "^1.1.5",
     "json5": "^2.1.0",
