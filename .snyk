@@ -1,0 +1,77 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - jest-image-snapshot > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: jest-image-snapshot > lodash
+    - enzyme > cheerio > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: enzyme > cheerio > lodash
+    - jest-enzyme > enzyme-to-json > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: jest-enzyme > enzyme-to-json > lodash
+    - riot-jest-transformer > @babel/core > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: riot-jest-transformer > @babel/core > lodash
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-eslint > @babel/traverse > lodash
+    - riot-jest-transformer > @babel/core > @babel/generator > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: riot-jest-transformer > @babel/core > @babel/generator > lodash
+    - jest-environment-jsdom-thirteen > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest-environment-jsdom-thirteen > jsdom > request-promise-native >
+          request-promise-core > lodash
+    - riot-jest-transformer > @babel/core > @babel/helpers > @babel/traverse > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          riot-jest-transformer > @babel/core > @babel/helpers > @babel/traverse
+          > lodash
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-eslint > @babel/traverse > @babel/helper-function-name >
+          @babel/helper-get-function-arity > @babel/types > lodash
+    - '@babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > lodash':
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          @babel/preset-env > @babel/plugin-proposal-async-generator-functions >
+          @babel/helper-remap-async-to-generator > @babel/helper-wrap-function >
+          @babel/traverse > lodash
+    - jest-enzyme > jest-environment-enzyme > jest-environment-jsdom > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest-enzyme > jest-environment-enzyme > jest-environment-jsdom > jsdom
+          > request-promise-native > request-promise-core > lodash
+    - '@babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          @babel/preset-env > @babel/plugin-proposal-async-generator-functions >
+          @babel/helper-remap-async-to-generator > @babel/helper-wrap-function >
+          @babel/helper-function-name > @babel/helper-get-function-arity >
+          @babel/types > lodash
+    - '@babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2025-05-12T05:47:33.343Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          @babel/preset-env > @babel/plugin-proposal-async-generator-functions >
+          @babel/helper-remap-async-to-generator > @babel/helper-wrap-function >
+          @babel/traverse > @babel/helper-function-name >
+          @babel/helper-get-function-arity > @babel/types > lodash
