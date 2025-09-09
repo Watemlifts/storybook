@@ -34,7 +34,7 @@
     "regenerator-runtime": "^0.12.1"
   },
   "devDependencies": {
-    "mithril": "^1.1.6"
+    "mithril": "^2.0.3"
   },
   "peerDependencies": {
     "babel-loader": "^7.0.0 || ^8.0.0",
