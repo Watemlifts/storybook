@@ -19,6 +19,6 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "eslint-config-react-tools": "1.x.x",
-    "serve": "^6.1.0"
+    "serve": "^7.0.0"
   }
 }
