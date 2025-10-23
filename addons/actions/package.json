@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "@storybook/addons": "5.2.0-beta.18",
-    "@storybook/api": "5.2.0-beta.18",
-    "@storybook/client-api": "5.2.0-beta.18",
-    "@storybook/components": "5.2.0-beta.18",
+    "@storybook/api": "7.0.0",
+    "@storybook/client-api": "7.0.0",
+    "@storybook/components": "6.5.0",
     "@storybook/core-events": "5.2.0-beta.18",
     "@storybook/theming": "5.2.0-beta.18",
     "core-js": "^3.0.1",
