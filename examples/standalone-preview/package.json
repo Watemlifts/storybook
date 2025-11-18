@@ -6,8 +6,8 @@
     "storybook": "parcel ./storybook.html --port 1337"
   },
   "devDependencies": {
-    "@storybook/react": "5.1.0-alpha.32",
-    "parcel": "^1.12.3",
+    "@storybook/react": "6.2.0",
+    "parcel": "^2.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   }
