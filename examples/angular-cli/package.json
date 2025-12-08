@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@angular/common": "^7.2.6",
-    "@angular/compiler": "^7.2.6",
+    "@angular/compiler": "^19.2.17",
     "@angular/core": "^7.2.6",
     "@angular/forms": "^7.2.6",
     "@angular/platform-browser": "^7.2.6",
@@ -57,7 +57,7 @@
     "global": "^4.3.2",
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
-    "jest": "^24.7.1",
+    "jest": "^25.0.0",
     "jest-preset-angular": "^7.1.0",
     "protractor": "~5.4.2",
     "ts-node": "~8.3.0",
