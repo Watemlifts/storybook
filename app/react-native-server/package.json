@@ -27,7 +27,7 @@
     "@storybook/addons": "5.2.0-beta.18",
     "@storybook/api": "5.2.0-beta.18",
     "@storybook/channel-websocket": "5.2.0-beta.18",
-    "@storybook/core": "5.2.0-beta.18",
+    "@storybook/core": "6.2.0",
     "@storybook/core-events": "5.2.0-beta.18",
     "@storybook/ui": "5.2.0-beta.18",
     "commander": "^2.19.0",
@@ -36,7 +36,7 @@
     "react": "^16.6.0",
     "react-dom": "^16.8.3",
     "uuid": "^3.3.2",
-    "webpack": "^4.33.0",
+    "webpack": "^5.0.0",
     "ws": "^6.1.0"
   },
   "peerDependencies": {
