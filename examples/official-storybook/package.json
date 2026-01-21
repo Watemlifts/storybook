@@ -40,7 +40,7 @@
     "@storybook/components": "5.2.0-beta.18",
     "@storybook/core-events": "5.2.0-beta.18",
     "@storybook/node-logger": "5.2.0-beta.18",
-    "@storybook/react": "5.2.0-beta.18",
+    "@storybook/react": "6.5.0",
     "@storybook/source-loader": "5.2.0-beta.18",
     "@storybook/theming": "5.2.0-beta.18",
     "cors": "^2.8.5",
@@ -61,6 +61,6 @@
     "terser-webpack-plugin": "^1.2.4",
     "ts-loader": "^6.0.0",
     "uuid": "^3.3.2",
-    "webpack": "^4.33.0"
+    "webpack": "^5.0.0"
   }
 }
