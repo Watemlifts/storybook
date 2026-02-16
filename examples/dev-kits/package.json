@@ -15,7 +15,7 @@
     "@storybook/components": "5.2.0-beta.18",
     "@storybook/core-events": "5.2.0-beta.18",
     "@storybook/node-logger": "5.2.0-beta.18",
-    "@storybook/react": "5.2.0-beta.18",
+    "@storybook/react": "6.5.0",
     "@storybook/theming": "5.2.0-beta.18",
     "cors": "^2.8.5",
     "cross-env": "^5.2.0",
@@ -31,9 +31,9 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "storybook-chromatic": "^1.2.6",
+    "storybook-chromatic": "^3.5.0",
     "ts-loader": "^5.3.3",
     "uuid": "^3.3.2",
-    "webpack": "^4.33.0"
+    "webpack": "^5.98.0"
   }
 }
